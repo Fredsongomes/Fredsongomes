@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Fredson%20J%C3%BAnior&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=58" alt="Fredson Júnior — Desenvolvedor Full Stack" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Fredson%20Gomes&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=58" alt="Fredson Gomes — Desenvolvedor Full Stack" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Brasília%20(DF)-Brasil-2563eb?style=flat-square&logo=googlemaps&logoColor=white" alt="Brasília (DF), Brasil" />
@@ -11,7 +11,7 @@
 
 ## 👋 Sobre mim
 
-Engenheiro de Software compartilhando minha jornada e meus aprendizados na área de tecnologia.
+Desenvolvedor Full Stack com foco em Java e Spring Boot, compartilhando aqui meus projetos e o que venho aprendendo.
 
 - 💻 Desenvolvedor **Full Stack**
 - 🎓 Cursando **Engenharia de Software**
@@ -23,7 +23,7 @@ Engenheiro de Software compartilhando minha jornada e meus aprendizados na área
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css&theme=dark" alt="Java, Spring Boot, React, JavaScript, TypeScript, HTML5, CSS3" />
 <br />
-<img src="https://skillicons.dev/icons?i=mongodb,docker,git,idea&theme=dark" alt="MongoDB, Docker, Git, IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,docker,git,idea&theme=dark" alt="Node.js, NestJS, PostgreSQL, MongoDB, Docker, Git, IntelliJ IDEA" />
 
 </div>
 
